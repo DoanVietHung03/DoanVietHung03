@@ -65,8 +65,6 @@ My main interests are **Computer Vision, Deep Learning, Edge AI, and hardware-aw
 
 ## 🎯 What I Work On
 
-## 🎯 What I Work On
-
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
