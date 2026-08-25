@@ -16,11 +16,19 @@ I’m particularly interested in **Computer Vision, Deep Learning, Edge AI, and 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DoanVietHung03/DoanVietHung03/main/assets/ai.gif" width="280">
-</div>
-
-### How to reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C6%B0ng-%C4%91o%C3%A0n-a636502ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DoanVietHung03)
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h3>How to reach me</h3>
+      <a href="https://www.linkedin.com/in/h%C6%B0ng-%C4%91o%C3%A0n-a636502ba/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://github.com/DoanVietHung03">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="42%" align="center">
+      <img src="https://media.giphy.com/media/sSgvbe1m3n93G/giphy.gif" width="300" alt="Computer Vision demo" />
+    </td>
+  </tr>
+</table>
