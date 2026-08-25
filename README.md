@@ -1,34 +1,47 @@
-# Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Đoàn Việt Hưng 👋</h1>
+  <p><b>AI / Computer Vision Engineer at HPT Vietnam Corporation</b></p>
+  <p>Specializing in <i>Real-time Vision Systems, Edge AI & Hardware-aware Deployment</i></p>
+</div>
 
-I’m **Đoàn Việt Hưng**, an **AI / Computer Vision Engineer at HPT Vietnam Corporation**, working on real-time vision systems and AI deployment.
+---
 
-I’m particularly interested in **Computer Vision, Deep Learning, Edge AI, and hardware-aware AI**, with a focus on turning AI models into practical real-world systems.
+### 🛠️ Tech Stack
 
-### Technologies & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,pytorch,opencv,linux,docker,git&theme=dark" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+---
+
+### 📌 About Me & Focus
 
 <table>
   <tr>
-    <td width="58%" valign="middle">
-      <h3>How to reach me</h3>
-      <a href="https://www.linkedin.com/in/h%C6%B0ng-%C4%91o%C3%A0n-a636502ba/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://github.com/DoanVietHung03">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🚀 <b>Focus:</b> Turning deep learning models into optimized, high-throughput real-world deployment.</li>
+        <li>🔬 <b>Interests:</b> Computer Vision, Deep Learning, Edge AI & TensorRT / ONNX Runtime optimization.</li>
+        <li>📫 <b>Connect with me:</b></li>
+      </ul>
+      <p style="margin-left: 20px;">
+        <a href="https://www.linkedin.com/in/h%C6%B0ng-%C4%91o%C3%A0n-a636502ba/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://github.com/DoanVietHung03">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
-    <td width="42%" align="center">
-      <img src="./adu-du-boboiboy.gif" width="300" />
+    <td width="35%" align="center" valign="middle">
+      <img src="./adu-du-boboiboy.gif" width="180" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
