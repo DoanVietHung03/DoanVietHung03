@@ -4,7 +4,7 @@
       
 ### Hi there 👋
 
-I am **Tên Bạn**, a [chức danh/ngành học] from [Trường/Nơi làm việc]. I am working towards being a [định hướng].
+I am **Đoàn Việt Hưng**, a junior AI/Computer Vision Solution Engineer from HPT VIETNAM CORPORATION which is focusing on building real-time systems that move beyond experimentation into production. I am working towards being an expert in system design and hardware-aware AI to further bridge AI models with real-world deployment environments.
 
 #### Technologies & Tools
 <!-- Sử dụng badge từ Shields.io hoặc skillicons.dev -->
