@@ -1,10 +1,15 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=180&section=header&text=%C4%90o%C3%A0n%20Vi%E1%BB%87t%20H%C6%B0ng&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=AI%20%2F%20Computer%20Vision%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="Đoàn Việt Hưng" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=180&section=header&text=Đoàn%20Việt%20Hưng&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=A[...]
+  <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Vision+%E2%80%A2+Deep+Learning+%E2[...]
-</a>
+  <a href="https://www.linkedin.com/in/h%C6%B0ng-%C4%91o%C3%A0n-a636502ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/DoanVietHung03">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
 <br/>
 
