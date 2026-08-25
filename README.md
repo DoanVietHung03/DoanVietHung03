@@ -63,16 +63,32 @@ My main interests are **Computer Vision, Deep Learning, Edge AI, and hardware-aw
 
 ## 📊 GitHub Overview
 
-<div align="center">
+## 🎯 What I Work On
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DoanVietHung03&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoanVietHung03&layout=compact&hide_border=true&theme=transparent" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 👁️ Computer Vision
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DoanVietHung03&hide_border=true&theme=transparent" />
+- Object Detection & Classification
+- Real-time Video Analytics
+- Image Processing
+- Industrial Vision Systems
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### ⚡ AI Deployment
+
+- ONNX / TensorRT Optimization
+- Edge AI & CPU/GPU Inference
+- Dockerized AI Services
+- Production-oriented AI Pipelines
+
+</td>
+</tr>
+</table>
 
 ---
 
