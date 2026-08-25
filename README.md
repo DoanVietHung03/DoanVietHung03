@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=180&section=header&text=Đoàn%20Việt%20Hưng&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=AI%20%2F%20Computer%20Vision%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=180&section=header&text=Đoàn%20Việt%20Hưng&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=A[...]
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Vision+%E2%80%A2+Deep+Learning+%E2%80%A2+Edge+AI;Building+real-time+AI+systems;From+model+training+to+real-world+deployment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Vision+%E2%80%A2+Deep+Learning+%E2[...]
 </a>
 
 <br/>
@@ -66,28 +66,11 @@ My main interests are **Computer Vision, Deep Learning, Edge AI, and hardware-aw
 ## 🎯 What I Work On
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<h3>👁️ Computer Vision</h3>
-<p>
-Object Detection &amp; Classification<br>
-Real-time Video Analytics<br>
-Image Processing<br>
-Industrial Vision Systems
-</p>
-</td>
-<td width="50%" align="center" valign="top">
-<h3>⚡ AI Deployment</h3>
-<p>
-ONNX / TensorRT Optimization<br>
-Edge AI &amp; CPU/GPU Inference<br>
-Dockerized AI Services<br>
-Production-oriented AI Pipelines
-</p>
-</td>
-</tr>
-</table>
+
+| | |
+|---|---|
+| <h3>👁️ Computer Vision</h3><p>Object Detection & Classification<br>Real-time Video Analytics<br>Image Processing<br>Industrial Vision Systems</p> | <h3>⚡ AI Deployment</h3><p>ONNX / TensorRT Optimization<br>Edge AI & CPU/GPU Inference<br>Dockerized AI Services<br>Production-oriented AI Pipelines</p> |
+
 </div>
 
 ---
@@ -103,6 +86,13 @@ I enjoy working on problems around **real-time vision, efficient inference, AI d
 If you're interested in similar topics, feel free to connect with me.
 
 <br/>
+
+<a href="https://www.linkedin.com/in/h%C6%B0ng-%C4%91o%C3%A0n-a636502ba/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/DoanVietHung03">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 <td width="38%" align="center" valign="middle">
