@@ -65,28 +65,29 @@ My main interests are **Computer Vision, Deep Learning, Edge AI, and hardware-aw
 
 ## 🎯 What I Work On
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>👁️ Computer Vision</h3>
-      <p>
-        Object Detection & Classification<br/>
-        Real-time Video Analytics<br/>
-        Image Processing<br/>
-        Industrial Vision Systems
-      </p>
-    </td>
+## 🎯 What I Work On
 
-    <td width="50%" align="center" valign="top">
-      <h3>⚡ AI Deployment</h3>
-      <p>
-        ONNX / TensorRT Optimization<br/>
-        Edge AI & CPU/GPU Inference<br/>
-        Dockerized AI Services<br/>
-        Production-oriented AI Pipelines
-      </p>
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>👁️ Computer Vision</h3>
+<p>
+Object Detection &amp; Classification<br>
+Real-time Video Analytics<br>
+Image Processing<br>
+Industrial Vision Systems
+</p>
+</td>
+<td width="50%" align="center" valign="top">
+<h3>⚡ AI Deployment</h3>
+<p>
+ONNX / TensorRT Optimization<br>
+Edge AI &amp; CPU/GPU Inference<br>
+Dockerized AI Services<br>
+Production-oriented AI Pipelines
+</p>
+</td>
+</tr>
 </table>
 
 ---
