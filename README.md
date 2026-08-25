@@ -28,7 +28,7 @@ I’m particularly interested in **Computer Vision, Deep Learning, Edge AI, and 
       </a>
     </td>
     <td width="42%" align="center">
-      <img src="[https://media.giphy.com/media/sSgvbe1m3n93G/giphy.gif](https://tenor.com/view/adudu-boboiboy-galaxy-gif-9479883)" width="300" />
+      <img src="./adu-du-boboiboy.gif" width="300" />
     </td>
   </tr>
 </table>
