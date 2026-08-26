@@ -59,28 +59,6 @@ My main interests are **Computer Vision, Deep Learning, Edge AI, and hardware-aw
 
 ---
 
-## 📊 GitHub Overview
-
-## 🎯 What I Work On
-
-<div align="center">
-
-<h3>👁️ Computer Vision</h3>
-
-`Object Detection` · `Image Classification` · `Video Analytics`  
-`Image Processing` · `Industrial Vision` · `Real-time Inference`
-
-<br>
-
-<h3>⚡ AI Deployment</h3>
-
-`ONNX` · `TensorRT` · `OpenVINO`  
-`Edge AI` · `Model Optimization` · `Dockerized AI Services`
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <table>
